@@ -3,3 +3,23 @@ body {
     font-weight: bolder;
     background-color: antiquewhite;
 }
+
+h2 {
+    font-weight: bold;
+}
+
+.introtext {
+    color: aquamarine;
+}
+
+#color {
+    color: red;
+}
+
+a:hover {
+    color: aqua;
+}
+
+p::first-letter {
+    color: blue;
+}
